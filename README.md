@@ -14,7 +14,7 @@
 1. Установите **.NET 6.0+** (или совместимый с WPF).
 2. Скачайте и установите **MaterialDesignThemes.Wpf** через NuGet.
 3. Откройте проект в **Visual Studio**.
-4. Запустите `OptimalWeightApp.sln`.
+4. Запустите `BodyStateCalculator.sln`.
 
 ## Технологии
 - **WPF**
