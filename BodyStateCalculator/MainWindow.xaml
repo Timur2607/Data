@@ -4,7 +4,6 @@
         xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
         Background="GhostWhite"
         Title="Оптимальный вес" Height="500" Width="500">
-
     <Window.Style>
         <Style TargetType="Window">
             <Setter Property="materialDesign:ColorZoneAssist.Mode" Value="PrimaryDark" />
