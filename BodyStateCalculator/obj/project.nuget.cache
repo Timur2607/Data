@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1duB/IGX3a4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\227145\\source\\repos\\BodyStateCalculator\\BodyStateCalculator\\BodyStateCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\227145\\.nuget\\packages\\materialdesigncolors\\5.2.1\\materialdesigncolors.5.2.1.nupkg.sha512",
+    "C:\\Users\\227145\\.nuget\\packages\\materialdesignthemes\\5.2.1\\materialdesignthemes.5.2.1.nupkg.sha512",
+    "C:\\Users\\227145\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
