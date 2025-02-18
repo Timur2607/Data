@@ -22,3 +22,4 @@
 - **Material Design for XAML**
 
 ## Скриншот
+![image](https://github.com/user-attachments/assets/78ff99b2-ef98-4d29-9d67-278b0894ae97)
